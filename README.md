@@ -1,7 +1,13 @@
 SocketProgramming
 =================
 
-Decentralization concept of one client to many servers is aimed...
+For "Centralization":- Check this link:
+
+https://github.com/dragonwolverines/SocketProgramming/blob/master/readme_Centralization
+
+=====================================================
+
+"Decentralization" concept of one client to many servers is aimed...
 
 ==================
 
