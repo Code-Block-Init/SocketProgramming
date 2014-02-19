@@ -1,13 +1,17 @@
 SocketProgramming
 =================
 
-For "Centralization":- Check this link:
+For "Centralization":-(operations) Check this link:
 
 https://github.com/dragonwolverines/SocketProgramming/blob/master/readme_Centralization
 
 =====================================================
 
 "Decentralization" concept of one client to many servers is aimed...
+
+Communication- https://github.com/dragonwolverines/SocketProgramming/blob/master/readme_decentralized_communication.txt
+
+Operations - 
 
 ==================
 
