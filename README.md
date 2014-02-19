@@ -17,6 +17,6 @@ Operations - https://github.com/dragonwolverines/SocketProgramming/blob/master/r
 
 Here, one client and two servers using Java is coded. written in notepad and implemented in windows command prompt using JDK 1.6 platform.
 
-Issues:- Successfully compiled, but while entering texts during run-time, it's giving issues... 
+Issues:- Successfully compiled, but while entering texts during run-time, it's giving issues... Like in the "if-else" loop, "if" is not executed, but "else" is directly executed (decentralization & centralization operations), but in decentralization communication, there is sudden error occuring while running the output. (O_O)
 
 Any Java developer is welcomed? :/
