@@ -1,0 +1,14 @@
+
+Client-to-three servers
+
+Client:
+https://github.com/dragonwolverines/SocketProgramming/blob/master/dcclient.java
+
+First server:
+https://github.com/dragonwolverines/SocketProgramming/blob/master/dcserver.java
+
+Second server:
+https://github.com/dragonwolverines/SocketProgramming/blob/master/dcserver1.java
+
+Third server:
+https://github.com/dragonwolverines/SocketProgramming/blob/master/dcserver2.java
