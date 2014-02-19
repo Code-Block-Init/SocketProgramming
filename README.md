@@ -11,7 +11,7 @@ https://github.com/dragonwolverines/SocketProgramming/blob/master/readme_Central
 
 Communication- https://github.com/dragonwolverines/SocketProgramming/blob/master/readme_decentralized_communication.txt
 
-Operations - 
+Operations - https://github.com/dragonwolverines/SocketProgramming/blob/master/readme_decentralization_operations
 
 ==================
 
